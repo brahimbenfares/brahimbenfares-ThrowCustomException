@@ -50,5 +50,11 @@
             <version>2.1.214</version>
             <scope>test</scope>
         </dependency>
+    
+      <dependency>
+        <groupId>io.github.scarecraw22</groupId>
+        <artifactId>java-utils</artifactId>
+        <version>1.0.0</version>
+      </dependency>
     </dependencies>
 </project>
